@@ -47,7 +47,7 @@
   <link rel="stylesheet" type="text/css" href="./css/style.css">
   
   <!-- javascript -->
-  <script src="./js/moment-with-locales.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.20.1/moment.min.js" type="text/javascript"></script>
   <script src="./js/jquery-3.4.1.min.js"></script>
   
   <!-- favicon -->
